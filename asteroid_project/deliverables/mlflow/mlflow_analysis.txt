@@ -1,0 +1,4 @@
+The best recall came from '50 trees - faster but less accurate?' with recall=0.8333.
+The added logistic regression run reached recall=0.7778, so it underperformed the stronger random forest runs on hazardous-object detection.
+Recall matters most here because a false negative means missing a truly hazardous asteroid, which is more costly than a false alarm.
+For a safety-focused asteroid screening system, I would choose the best-recall random forest first and tune precision afterward if alert volume becomes a problem.

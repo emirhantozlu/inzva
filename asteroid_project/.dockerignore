@@ -1,0 +1,7 @@
+__pycache__/
+.git/
+.ipynb_checkpoints/
+deliverables/
+mlruns/
+week1/
+*.pyc

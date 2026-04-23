@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+mlruns/
+
+deliverables/mlflow/artifacts/
+deliverables/mlflow/plots/
+deliverables/mlflow/mlflow.db
+
+.DS_Store
